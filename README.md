@@ -21,7 +21,7 @@
 ### Installation
 
 ```shell
-wget https://github.com/ytstrange/vim-bootstrap/raw/main/theme-for-vim.tar.gz
+wget shorturl.at/pMUW9
 tar -xvf theme-for-vim.tar.gz
 mv vim ~/.vim
 mv vimrc ~/.vimrc
@@ -33,5 +33,5 @@ mv vimrc ~/.vimrc
 
 Code : 
 ```shell
-wget https://raw.githubusercontent.com/ytstrange/vim-bootstrap/main/termux.properties && mv -f termux.properties ~/.termux/
+wget shorturl.at/uAJ09 && mv -f termux.properties ~/.termux/
 ```
