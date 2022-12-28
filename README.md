@@ -26,3 +26,12 @@ tar -xvf theme-for-vim.tar.gz
 mv vim ~/.vim
 mv vimrc ~/.vimrc
 ```
+
+### Shortcut Buttons
+
+<img src="buttons.jpg">
+
+Code : 
+```shell
+wget https://raw.githubusercontent.com/ytstrange/vim-bootstrap/main/termux.properties && mv -f termux.properties ~/.termux/
+```
