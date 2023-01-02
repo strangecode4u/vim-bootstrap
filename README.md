@@ -28,7 +28,9 @@ mv vim ~/.vim
 mv vimrc ~/.vimrc
 ```
 
-Shortcut buttons for `Termux`.
+### Recommended !
+
+* Shortcut buttons for `Termux`.
 
 <img src="buttons.jpg">
 
