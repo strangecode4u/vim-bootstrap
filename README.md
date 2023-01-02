@@ -30,7 +30,7 @@ mv vimrc ~/.vimrc
 
 ### Recommended !
 
-* Shortcut buttons for `Termux`.
+* Shortcut buttons (Only for *Termux*)
 
 <img src="buttons.jpg">
 
