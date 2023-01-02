@@ -1,7 +1,8 @@
-### Required
+### Required !
 * `vim` should be installed.
+* Internet connection.
 
-### Features
+### Features !
 * Vundle installed
 * Lightline Installed
 * AutoPairs Installed
@@ -9,16 +10,16 @@
 * Everforest theme Installed
 * Syntax Highlighting Enabled
 
-### Lack Of
+### Lack Of !
 * Python Autocompletion
 * Snipmate
 * Pip module support
 
-### Upcoming
+### Upcoming !
 * Jedi-vim
 * More features will come shortly.
 
-### Installation
+### Installation !
 
 ```shell
 wget https://github.com/ytstrange/vim-bootstrap/raw/main/theme-for-vim.tar.gz
@@ -27,7 +28,7 @@ mv vim ~/.vim
 mv vimrc ~/.vimrc
 ```
 
-### Shortcut Buttons
+Shortcut buttons for `Termux`.
 
 <img src="buttons.jpg">
 
