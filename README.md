@@ -38,3 +38,4 @@ Code :
 ```shell
 wget https://github.com/ytstrange/vim-bootstrap/raw/main/termux.properties && mv -f termux.properties ~/.termux/
 ```
+<meta name="google-site-verification" content="ByThRVPuB0tuKXWaOr0gaEuWtCqgDh5KDapOc9IjUJ8" />
